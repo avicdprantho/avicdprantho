@@ -77,13 +77,7 @@ Building enterprise-scale data platforms, modern ETL/ELT pipelines, and governed
 
 ---
 
-### 📚 Currently Learning
 
-- Microsoft Fabric deep-dive
-- Business Analytics (MSc, Aston University, 2025–2026)
-- Advanced Spark performance tuning
-
----
 
 ### 📫 Connect With Me
 
